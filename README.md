@@ -1,8 +1,9 @@
 # Artigo 2 - Métodos Neurais Para Etiquetadores Morfossintáticos
 Antonio Augusto Abello - NUSP: 8536152
 
-Aplicação de Word2Vec, LSTM e Bidirectional LSTM em um dataset público (CETENFolha)
-pela Linguateca (https://www.linguateca.pt/CETENFolha/) utilizando Keras-Tensorflow
+Aplicação de Word2Vec, LSTM e Bidirectional LSTM em um dataset público de etiquetagem
+morfossintática em portugûes (CETENFolha) disponibilizado pela Linguateca (https://www.linguateca.pt/CETENFolha/) 
+utilizando Keras-Tensorflow
 
 ## Entrega:
 Esse repositório contém
